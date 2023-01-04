@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chinwuba Okafor</h1>
 <h3 align="center">An enthusiastic Front-end developer with evolving progresive learning in the Front-end space. </h3>
 
+<p align="left">
+<a href="https://twitter.com/chubbychubi" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitter.png" title = "Twitter" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/okafor-chinwuba-45712158/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://www.instagram.com/okafor_chinwuba/" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="30" /></a>
+
+</p>
+
 
 - 👀 I’m interested in a Front-end Developer role
 - 👨‍💻 All of my projects are available HERE.
