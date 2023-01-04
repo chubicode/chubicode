@@ -9,6 +9,9 @@
 </p>
 
 
+
+
+
 - 👀 I’m interested in a Front-end Developer role
 - 👨‍💻 All of my projects are available HERE.
 - 🌱 I’m currently learning Java Script 
