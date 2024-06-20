@@ -8,7 +8,7 @@ learning. I am actively transitioning into the full-stack space. </h3>
 🌱 I’m currently learning Java Script and transitioning into the backend space to become a fullstack Developer.
 💞️ I’m looking to collaborate on any project which will help develop me in becoming a better and more experienced programmer.
 
-![Chinwuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=chubicode&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Chinwuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=chubicode&show_icons=true&theme=radical)
 
 
 
